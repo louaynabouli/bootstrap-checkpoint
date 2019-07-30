@@ -1,0 +1,25 @@
+.red{
+    background-color: crimson;
+    text-align: center;
+    border: 1px black solid;
+}
+.green{
+    background-color: lightgreen;
+    text-align: center;
+    border: 1px black solid;
+}
+.blue{
+    background-color: lightblue;
+    height: 200px;
+    border: 1px black solid;
+}
+.yellow{
+    background-color: yellow;
+    height: 200px;
+    border: 1px black solid;
+}
+.crismon{
+    background-color: crimson;
+    height: 200px;
+    border: 1px black solid;
+}
